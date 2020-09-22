@@ -14,4 +14,4 @@ For more information on Jupyter Notebooks and their use in history and cultural 
 
 For a helpful introduction to coding and other methods for history and the Digital Humanities, see *The Programming Historian*(https://programminghistorian.org/).
 
-*Nick Pitt, 30 September 2019 (moved to Github 22 September 2020)*
+*Nick Pitt, 22 September 2020*
